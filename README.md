@@ -137,3 +137,5 @@ This project was completed as part of my thesis on computer vision applications.
 ---
 
 **Note:** This is an educational project developed for learning purposes. The code and methodology are documented to help others understand the implementation of license plate recognition systems.
+
+### A change to check if the mcp server tool is working to get the information.
