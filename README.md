@@ -1,4 +1,4 @@
-# License Plate Recognition System
+# License Plate Recognition System New
 
 A computer vision project implementing automated license plate detection and character recognition using deep learning techniques.
 
