@@ -144,4 +144,4 @@ Last addition and no more fluff
 
 ## API Integration
 This project exposes a REST API endpoint for license plate detection. 
-Send a POST request to `/detect` with an image file and receive the detected plate number, confidence score, and bounding box coordinates in response.
+Send a POST request to `/detect` with an image file and receive the detected plate number, confidence score, and bounding box coordinates in response. FInal addition
