@@ -141,3 +141,7 @@ This project was completed as part of my thesis on computer vision applications.
 ### Technical Addition
 The project has been equipped with open cv and yolov8 so its defined as a learning project and this is not the original work. The future work may involve more robust models and improving performance but this will be the last addition to this code base. final addition.
 Last addition and no more fluff
+
+## API Integration
+This project exposes a REST API endpoint for license plate detection. 
+Send a POST request to `/detect` with an image file and receive the detected plate number, confidence score, and bounding box coordinates in response.
