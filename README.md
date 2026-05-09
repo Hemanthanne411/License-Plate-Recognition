@@ -138,7 +138,5 @@ This project was completed as part of my thesis on computer vision applications.
 
 **Note:** This is an educational project developed for learning purposes. The code and methodology are documented to help others understand the implementation of license plate recognition systems.
 
-### A change to check if the mcp server tool is working to get the information.
-
-check two
-check three
+### Technical Addition
+The project has been equipped with open cv and yolov8 so its defined as a learning project and this is not the original work. The future work may involve more robust models and improving performance but this will be the last addition to this code base.
